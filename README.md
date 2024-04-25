@@ -7,10 +7,8 @@ how to use:
 
 
   v0.1:
-  1. install requirements.txt libraries whith pip
-  2. install them too:
-  colorama>=0.4.4
-  datetime
+  1. install requirements.txt libraries with pip
+  2. install: colorama>=0.4.4 , datetime libraries with pip
   3. run start.bat
   
   v0.2:
