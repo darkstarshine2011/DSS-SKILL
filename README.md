@@ -14,4 +14,8 @@ how to use:
   v0.2.x:
   1. run intall.bat
   2. run start.bat
+
+  v0.3.x:
+  1. run intall.bat
+  2. run start.bat
    
