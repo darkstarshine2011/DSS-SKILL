@@ -3,6 +3,14 @@
 # go to releases tags for download
 
 
+
+python version:
+
+
+  v0.1 - 0.3:
+    py v+3.8.10
+
+
 how to use:
 
 
